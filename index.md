@@ -1,6 +1,6 @@
 ## Welcome to my website
 
-Link to my [CV](https://mvieiralara.github.io)
+Link to my [CV](https://mvieiralara.github.io/cv)
 
 You can use the [editor on GitHub](https://github.com/marcelvlara/marcel.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
